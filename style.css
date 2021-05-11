@@ -1,12 +1,16 @@
 .antiquewhite{
-  background-color:antiquewhite;
+  background-color:antiquewhite !important;
 }
 
 .blanchedalmond{
-  background-color:blanchedalmond;
+  background-color:blanchedalmond !important;
 }
 
 .multimedia{
-  background-color:antiquewhite;
+  background-color:antiquewhite !important;
   color: black
+}
+
+#te{
+  background-color:black;
 }
